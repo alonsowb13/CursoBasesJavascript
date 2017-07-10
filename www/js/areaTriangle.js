@@ -22,4 +22,4 @@ console.log(`El area del cuadrado de lado ${l}:  ${squareArea(l)}` );
 let baseR = 5;
 let heightR = 7;
 const rectangleArea = (base, height) => base * height;
-console.log(`El area del rectangulo de base ${baseR} y altura ${heightR}:  ${rectangleArea(baseR, alturaR)}` );
+console.log(`El area del rectangulo de base ${baseR} y altura ${heightR}:  ${rectangleArea(baseR, heightR)}` );
